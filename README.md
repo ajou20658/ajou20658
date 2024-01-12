@@ -33,12 +33,10 @@
 
 ## 학습공간
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-## 개인 기록
 [![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/23-9503e52979e2444e9f04832761b8d029?pvs=12)
-## 현재 공부중
-![aws saa](https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png)
-* 정보처리기사
-* spring security
+* aws saa (ING)
+* 정보처리기사 (ING)
+* spring security (ING)
 ## 취득 자격증
 * 리눅스마스터 2급/22.07.01
 * SQLD/22.04.08
