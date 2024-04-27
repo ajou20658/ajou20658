@@ -31,7 +31,8 @@
 ## 취득 자격증
 * 리눅스마스터 2급/22.07.01
 * SQLD/22.04.08
-* AWS Solution Architect Assosicate/24.04.26
+* AWS Solution Architect Assosicate/24.04.26~27.04.26
+* Solace Certified Developer Practitioner Certification/24.04.27~26.04.27
 <!--
 **ajou20658/ajou20658** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
