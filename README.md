@@ -26,12 +26,12 @@
 ## 학습공간
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 [![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/23-9503e52979e2444e9f04832761b8d029?pvs=12)
-* aws saa (ING)
-* 정보처리기사 (ING)
+* 정보처리기사 (2024.04.27~)
 * spring security (ING)
 ## 취득 자격증
 * 리눅스마스터 2급/22.07.01
 * SQLD/22.04.08
+* AWS Solution Architect Assosicate/24.04.26
 <!--
 **ajou20658/ajou20658** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
