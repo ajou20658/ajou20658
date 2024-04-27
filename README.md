@@ -33,6 +33,10 @@
 * SQLD/22.04.08
 * AWS Solution Architect Assosicate/24.04.26~27.04.26
 * Solace Certified Developer Practitioner Certification/24.04.27~26.04.27
+
+![solace-certified-developer-practitioner-level-1](https://github.com/ajou20658/ajou20658/assets/48721887/ada7a65e-9352-4c7a-8069-ac8e580bdfa9)
+![aws-certified-solutions-architect-associate](https://github.com/ajou20658/ajou20658/assets/48721887/3d5cd7a4-0e93-40f8-bd38-fe7f158ed830)
+
 <!--
 **ajou20658/ajou20658** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
