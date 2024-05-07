@@ -25,6 +25,8 @@
 ## 학습공간
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 [![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/23-9503e52979e2444e9f04832761b8d029?pvs=12)
+
+<a href="https://velog.io/@gwangbu/posts"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@gwangbu/posts"/></a>
 * 정보처리기사 (2024.04.27~)
 * spring security (ING)
 ## 취득 자격증
