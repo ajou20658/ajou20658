@@ -41,6 +41,8 @@
 * SQLD/22.04.08
 * AWS Solution Architect Assosicate/24.04.26~27.04.26
 * Solace Certified Developer Practitioner Certification/24.04.27~26.04.27
+* TOPCIT 561(3등급)
+* (임시)정보처리기사(12.11 취득예상)
 
 ![solace-certified-developer-practitioner-level-1](https://github.com/ajou20658/ajou20658/assets/48721887/ada7a65e-9352-4c7a-8069-ac8e580bdfa9)
 ![aws-certified-solutions-architect-associate](https://github.com/ajou20658/ajou20658/assets/48721887/3d5cd7a4-0e93-40f8-bd38-fe7f158ed830)
