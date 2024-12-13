@@ -34,8 +34,6 @@
 
 <a href="https://velog.io/@gwangbu/posts"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@gwangbu/posts"/></a>
 
-* 정보처리기사 (2024.04.27~)
-* spring security (ING)
 ## 취득 자격증
 * 리눅스마스터 2급/22.07.01
 * SQLD/22.04.08
